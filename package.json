@@ -1,0 +1,23 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "My landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cafalco96/Landing-page.git"
+  },
+  "keywords": [],
+  "author": "Carlos Falconi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cafalco96/Landing-page/issues"
+  },
+  "homepage": "https://github.com/cafalco96/Landing-page#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
